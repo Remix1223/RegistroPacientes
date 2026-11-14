@@ -1,0 +1,1 @@
+﻿record Paciente(int Id, string Cedula, string Nombre, string Apellido, DateTime FechaNacimiento, string Telefono, int Edad);

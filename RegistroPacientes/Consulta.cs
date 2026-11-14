@@ -1,0 +1,1 @@
+﻿record Consulta(int Id, int PacienteId, DateTime Fecha, string Motivo, string Diagnostico);
